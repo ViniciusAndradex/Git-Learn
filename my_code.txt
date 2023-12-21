@@ -1,0 +1,5 @@
+git reflog - Verificar os commits
+
+git reset --hard {id} - Voltar versões do seu código (um deles)
+
+ 
